@@ -5,7 +5,7 @@ title: Installation
 Simply run
 
 ```
-npm install ember-cli-deploy --save-dev
+ember install ember-cli-deploy 
 ```
 
 and the new commands will be available in your ember-cli app!
